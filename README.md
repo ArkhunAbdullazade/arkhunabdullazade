@@ -12,7 +12,7 @@
 
 # 🚀 Featured Projects
 
-* **[MedAnnotateApp](https://github.com/ArkhunAbdullazade/MedAnnotateApp)** — A role-based medical image annotation platform developed during AI-for-medicine research involving Stanford University and the Hasso Plattner Institute. It provides specialized workflows for medical students and professionals, including visual annotation tools, clinical-term highlighting, filtered image assignment, timing capture, and image locking for controlled research studies.
+* **[MedAnnotateApp](https://github.com/ArkhunAbdullazade/MedAnnotateApp)** — A role-based medical image annotation platform developed during AI-for-medicine research involving Stanford University and the Hasso Plattner Institute. It provides specialized workflows for medical students and professionals, including visual annotation tools, clinical-term highlighting, filtered image assignment, timing capture, and image locking for controlled research studies. (a video demo is present in the documentation of the project)
   **Tech:** .NET 8, ASP.NET Core MVC, PostgreSQL, Docker
 
 * **[MangaFlex](https://github.com/ArkhunAbdullazade/MangaFlex)** — A team-built manga discovery and reading platform powered by MangaDex, with search, chapter reading, authentication, and reading history. It also supports social features like chats and communities.
