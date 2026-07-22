@@ -1,26 +1,26 @@
 # 💫 About Me
 
-👨🏻‍💻 I’m a full-stack developer with deep understanding of **.NET, DevOps, cloud computing, and intelligent applications**.
+👨🏻‍💻 I’m a full-stack developer with a strong foundation in **.NET, DevOps, cloud computing, and AI-powered applications**.
 
 👨🏻‍🎓 I’m studying **Computer Engineering at Middle East Technical University**.
 
 📱 I’m a co-founder of **Deviny**, a fitness-focused social platform connecting users with trainers and nutritionists through messaging, scheduling, program purchases, and service-management tools.
 
-🎧 I’m also developing a personal project. A multimodal AI system that analyzes books and narration to identify mood, pacing, intensity, and scene context, then creates context-aware listening experiences using uploaded music and pre-existing sound effects, which results in a unique reading experience.
+🎧 I’m also developing a multimodal AI system that analyzes books and narration to understand mood, pacing, intensity, and scene context. It uses these insights to create adaptive listening experiences from uploaded music and an existing sound-effects library.
 
 🔭 I’m currently exploring **Semantic Kernel, Hugging Face Transformers, and LangChain**.
 
 # 🚀 Featured Projects
 
-* **[MedAnnotateApp](https://github.com/ArkhunAbdullazade/MedAnnotateApp)** — A role-based medical image annotation platform developed during AI-for-medicine research involving Stanford University and the Hasso Plattner Institute. It provides specialized workflows for medical students and professionals, including visual annotation tools, clinical-term highlighting, filtered image assignment, timing capture, and image locking for controlled research studies. (a video demo is present in the documentation of the project)
+* **[MedAnnotateApp](https://github.com/ArkhunAbdullazade/MedAnnotateApp)** — A role-based medical image annotation platform developed during AI-for-medicine research involving Stanford University and the Hasso Plattner Institute. It provides specialized workflows for medical students and professionals, including visual annotation tools, clinical-term highlighting, filtered image assignment, timing capture, and image locking for controlled research studies. A video demonstration is available in the repository documentation.  
   **Tech:** .NET 8, ASP.NET Core MVC, PostgreSQL, Docker
 
-* **[Spotibuds](https://github.com/Spotibuds/User)** — A microservice-based social music platform. My main contributions included profiles, social relationships, real-time chat, notifications, feed activity, Azure Blob media integration, and shared work across the Music and Identity services, frontend, and Docker setup.
+* **[Deviny](https://github.com/Deviny-me/Deviny_IOS)** — A fitness-focused social platform connecting users with trainers and nutritionists through messaging, scheduling, program purchases, and professional service-management tools. The linked repository contains the Swift iOS application, while the backend and other platform components are maintained within the Deviny organization.
+
+* **[Spotibuds](https://github.com/Spotibuds/User)** — A microservice-based social music platform. My main contributions included user profiles, social relationships, real-time chat, notifications, feed activity, and Azure Blob Storage integration, alongside shared work on the Music and Identity services, frontend, and Docker setup.  
   **Tech:** .NET 8, MongoDB, SignalR, RabbitMQ, Azure
 
-* **[Deviny](https://github.com/Deviny-me/Deviny_IOS)** — A fitness-focused social platform connecting users with trainers and nutritionists through messaging, scheduling, program purchases, and professional service-management tools. The linked repository contains the Swift iOS application, while the broader platform is maintained within the Deviny organization.
-
-* **[MangaFlex](https://github.com/ArkhunAbdullazade/MangaFlex)** — A team-built manga discovery and reading platform powered by MangaDex, with search, chapter reading, authentication, and reading history. It also supports social features like chats and communities.
+* **[MangaFlex](https://github.com/ArkhunAbdullazade/MangaFlex)** — A team-built social platform for discovering and reading manga and comics. Powered by MangaDex, it supports title search, chapter reading, authentication, reading history, communities, and real-time chats.  
   **Tech:** ASP.NET Core MVC, PostgreSQL, MediatR, xUnit
 
 
