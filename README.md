@@ -8,7 +8,7 @@
 
 🎧 I’m also developing a multimodal AI system that analyzes books and narration to understand mood, pacing, intensity, and scene context. It uses these insights to create adaptive listening experiences from uploaded music and an existing sound-effects library.
 
-🔭 I’m currently exploring **Semantic Kernel, Hugging Face Transformers, and LangChain**.
+🔭 I’m currently exploring **Hugging Face Transformers, Sentence Transformers, and LangChain**.
 
 # 🚀 Featured Projects
 
