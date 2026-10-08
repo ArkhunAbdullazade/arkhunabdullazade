@@ -24,9 +24,9 @@ Software engineering · Distributed systems · Applied AI
 
 I enjoy taking on projects that push me into unfamiliar territory. There's something satisfying about starting with little understanding of a subject and gradually figuring out how everything fits together. I love exploring new technologies, adapting to different challenges, and learning along the way.
 
-I'm especially drawn to interdisciplinary work. My interest in medical AI grew partly through my sister's background in biology and eventually led to research involving Stanford Medicine and the Hasso Plattner Institute, where I became **third author of the research paper in the field of AI for medicine**. Additionally, I'm eager to explore more of AI/ML in future projects.
+I'm especially drawn to interdisciplinary work. My interest in medical AI grew partly through my sister's background in biology and eventually led to research involving Stanford Medicine and the Hasso Plattner Institute, where I'm a **third author on a medical AI research manuscript**. I'm also eager to explore more of AI/ML in future projects.
 
-Outside of programming, I'm into literature, music, cinema, and storytelling. I enjoy everything from Russian classics to fantasy, listen to basically any type of music, even occasionally trying writing fiction of my own, and have a growing interest in game development and interactive storytelling.
+Outside of programming, I'm into literature, music, cinema, and storytelling. I enjoy everything from Russian classics to fantasy, listen to just about any genre of music, and occasionally write fiction myself. I'm also interested in game development and interactive storytelling.
 
 <br>
 
@@ -43,9 +43,11 @@ Designed role-based workflows for medical students and professionals, including 
 
 📹 **[Screenshots & video walkthrough →](https://github.com/ArkhunAbdullazade/MedAnnotateApp)**
 
+📄 **[Research abstract →](https://drive.google.com/file/d/1QrxU25FYIvye2wVZoGeYHJw7EkDN_eX8/view)**
+
 <sub>Demonstrations feature an earlier local development version.</sub>
 
----
+<br>
 
 ### 🎵 [Spotibuds](https://github.com/Spotibuds)
 <sub>MICROSERVICES · REAL-TIME SYSTEMS</sub>
@@ -58,7 +60,7 @@ Worked primarily on user profiles, social relationships, real-time messaging, no
 
 📹 **[Feature demonstrations →](https://github.com/Spotibuds)**
 
----
+<br>
 
 ### 📖 [MangaFlex](https://github.com/ArkhunAbdullazade/MangaFlex)
 <sub>FULL-STACK DEVELOPMENT · TEAM PROJECT</sub>
@@ -67,7 +69,7 @@ A team-built manga and comics platform powered by MangaDex, combining title disc
 
 **Stack:** `ASP.NET Core MVC` `PostgreSQL` `MediatR` `xUnit`
 
----
+<br>
 
 ### 💪 [Deviny](https://github.com/Deviny-me)
 <sub>STARTUP · PRODUCT DEVELOPMENT</sub>
@@ -79,8 +81,6 @@ A fitness-focused social platform I'm co-founding and developing, connecting use
 <br>
 
 ## Tech Stack
-
-A selection of the technologies I've worked with across projects, research, and development.
 
 **Languages**
 
