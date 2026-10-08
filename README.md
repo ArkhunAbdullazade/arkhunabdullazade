@@ -12,16 +12,16 @@
 
 # 🚀 Featured Projects
 
-* **[MedAnnotateApp](https://github.com/ArkhunAbdullazade/MedAnnotateApp)** — A role-based medical image annotation platform developed during AI-for-medicine research involving Stanford University and the Hasso Plattner Institute. It provides specialized workflows for medical students and professionals, including visual annotation tools, clinical-term highlighting, filtered image assignment, timing capture, and image locking for controlled research studies. A video demonstration is available in the repository documentation.  
+* **[MedAnnotateApp](https://github.com/ArkhunAbdullazade/MedAnnotateApp)** — A role-based medical image annotation platform developed during AI-for-medicine research involving Stanford University and the Hasso Plattner Institute. It provides specialized workflows for medical students and professionals, including visual annotation tools, clinical-term highlighting, filtered image assignment, timing capture, and image locking for controlled research studies. A video demonstration is available in the repository documentation. (Video demonstration of the earlier version of the project is available in the documentation of the project)
   **Tech:** .NET 8, ASP.NET Core MVC, PostgreSQL, Docker
 
-* **[Deviny](https://github.com/Deviny-me/Deviny_IOS)** — A fitness-focused social platform connecting users with trainers and nutritionists through messaging, scheduling, program purchases, and professional service-management tools. The linked repository contains the Swift iOS application, while the backend and other platform components are maintained within the Deviny organization.
-
-* **[Spotibuds](https://github.com/Spotibuds/User)** — A microservice-based social music platform. My main contributions included user profiles, social relationships, real-time chat, notifications, feed activity, and Azure Blob Storage integration, alongside shared work on the Music and Identity services, frontend, and Docker setup.  
+* **[Spotibuds](https://github.com/Spotibuds)** — A microservice-based social music platform. My main contributions included user profiles, social relationships, real-time chat, notifications, feed activity, and Azure Blob Storage integration, alongside shared work on the Music and Identity services, frontend, and Docker setup. (Video demonstrations of the majority of features is available in the organization documentation)
   **Tech:** .NET 8, MongoDB, SignalR, RabbitMQ, Azure
 
 * **[MangaFlex](https://github.com/ArkhunAbdullazade/MangaFlex)** — A team-built social platform for discovering and reading manga and comics. Powered by MangaDex, it supports title search, chapter reading, authentication, reading history, communities, and real-time chats.  
   **Tech:** ASP.NET Core MVC, PostgreSQL, MediatR, xUnit
+
+* **[Deviny](https://github.com/Deviny-me)** — A fitness-focused social platform connecting users with trainers and nutritionists through messaging, scheduling, program purchases, and professional service-management tools. The majority of the linked Deviny organization is unfortunately private, however, the project is soon to be released on IOS and shortly after on Android.
 
 
 # 💻 Tech Stack:
