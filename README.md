@@ -22,11 +22,11 @@ Software engineering · Distributed systems · Applied AI
 
 ## About Me
 
-I enjoy taking on projects that push me into unfamiliar territory. There's something satisfying about starting with little understanding of a subject and gradually figuring out how everything fits together. I love exploring new technologies, adapting to different challenges, and learning along the way.
+I enjoy projects that push me into unfamiliar territory, learning new technologies and gradually figuring out how everything fits together. Adaptability and curiosity are what drive me, especially when working in interdisciplinary fields.
 
-I'm especially drawn to interdisciplinary work. My interest in medical AI grew partly through my sister's background in biology and eventually led to research involving Stanford Medicine and the Hasso Plattner Institute, where I'm a **third author on a medical AI research manuscript**. I'm also eager to explore more of AI/ML in future projects.
+My interest in medical AI grew partly through my sister's background in biology and led to research involving Stanford Medicine and the Hasso Plattner Institute, where I'm third author on a research manuscript. I'm also eager to explore more of AI/ML in future projects.
 
-Outside of programming, I'm into literature, music, cinema, and storytelling. I enjoy everything from Russian classics to fantasy, listen to just about any genre of music, and occasionally write fiction myself. I'm also interested in game development and interactive storytelling.
+Outside of programming and my current projects, I'm into literature, music, cinema, and storytelling. I enjoy everything from Russian classics to fantasy, listen to just about any genre of music, and occasionally learn about writing fiction myself. I'm also interested in game development and interactive storytelling.
 
 <br>
 
