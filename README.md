@@ -12,7 +12,7 @@ Software engineering · Backend & Cloud · Applied AI
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:arhun.abdullazade@metu.edu.tr">
-  <img src="https://img.shields.io/badge/Email-333333?style=flat-square" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yIDRoMjBhMiAyIDAgMCAxIDIgMnYxMmEyIDIgMCAwIDEtMiAySDJhMiAyIDAgMCAxLTItMlY2YTIgMiAwIDAgMSAyLTJ6bTAgMnYuNWwxMCA2LjI1TDIyIDYuNVY2SDJ6bTIwIDIuODYtOS40NyA1LjkyYTEgMSAwIDAgMS0xLjA2IDBMMiA4Ljg2VjE4aDIwVjguODZ6Ii8+PC9zdmc+" alt="Email" />
 </a>
 
 </div>
@@ -24,7 +24,7 @@ Software engineering · Backend & Cloud · Applied AI
 What I enjoy most about software is that there's always something new to understand. My favourite projects push me into unfamiliar territory, especially when they cross into other fields.
 
 - 🔬 **Medical AI research** on OpenMedSeg with Stanford Medicine and the Hasso Plattner Institute, which grew partly out of my sister's background in biology. I'm third author on the manuscript and want to keep exploring AI/ML alongside other areas of software engineering.
-- 🚀 **Co-founding Deviny**, a fitness platform launching soon on iOS and Android.
+- 🚀 **Co-founding Deviny**, a fitness platform launching on iOS and Android in early 2027.
 
 Outside programming, I read everything from Russian classics to fantasy, listen to just about any genre, and dabble in writing fiction. I'm also drawn to game development and interactive storytelling.
 
