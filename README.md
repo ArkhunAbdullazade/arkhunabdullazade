@@ -1,19 +1,18 @@
-
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/72f2ad23-4e0c-4e38-b644-adc9969b8267" width="500" alt="Cowboy Bebop" />
+<img src="https://github.com/user-attachments/assets/72f2ad23-4e0c-4e38-b644-adc9969b8267" width="320" alt="Cowboy Bebop" />
 
 # Hey, I'm Arhun 🦦
 
 **Computer Engineering @ METU**
 
-Software engineering · Distributed systems · Applied AI
+Software engineering · Backend & Cloud · Applied AI
 
 <a href="https://www.linkedin.com/in/arhun-abdullazade/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://github.com/ArkhunAbdullazade">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+<a href="mailto:arhun.abdullazade@metu.edu.tr">
+  <img src="https://img.shields.io/badge/Email-333333?style=flat-square" alt="Email" />
 </a>
 
 </div>
@@ -22,11 +21,12 @@ Software engineering · Distributed systems · Applied AI
 
 ## About Me
 
-I enjoy projects that push me into unfamiliar territory, learning new technologies and gradually figuring out how everything fits together. Adaptability and curiosity are what drive me, especially when working in interdisciplinary fields.
+What I enjoy most about software is that there's always something new to understand. My favourite projects push me into unfamiliar territory, especially when they cross into other fields.
 
-One example of this has been my involvement in medical AI research with Stanford Medicine and the Hasso Plattner Institute, which grew partly through my sister's background in biology. I'm third author on a research manuscript, and I'm interested in continuing to explore AI/ML alongside other areas of software engineering.
+- 🔬 **Medical AI research** on OpenMedSeg with Stanford Medicine and the Hasso Plattner Institute, which grew partly out of my sister's background in biology. I'm third author on the manuscript and want to keep exploring AI/ML alongside other areas of software engineering.
+- 🚀 **Co-founding Deviny**, a fitness platform launching soon on iOS and Android.
 
-Outside of programming, I'm into literature, music, cinema, and storytelling. I enjoy everything from Russian classics to fantasy, listen to just about any genre of music, and occasionally learn about writing fiction myself. I'm also interested in game development and interactive storytelling.
+Outside programming, I read everything from Russian classics to fantasy, listen to just about any genre, and dabble in writing fiction. I'm also drawn to game development and interactive storytelling.
 
 <br>
 
@@ -35,9 +35,9 @@ Outside of programming, I'm into literature, music, cinema, and storytelling. I 
 ### 🩺 [MedAnnotateApp](https://github.com/ArkhunAbdullazade/MedAnnotateApp)
 <sub>MEDICAL AI RESEARCH · FULL-STACK DEVELOPMENT</sub>
 
-A medical image annotation platform I developed for AI-for-medicine research involving Stanford Medicine and the Hasso Plattner Institute.
+A medical image annotation platform I built for OpenMedSeg, used to collect the annotations for evaluating the model. Built in one week against a three-week estimate.
 
-Designed role-based workflows for medical students and professionals, including visual annotation, clinical-term highlighting, filtered image assignment, timing capture, and image locking for controlled research studies.
+Role-based workflows for medical students and professionals, with visual annotation, clinical-term highlighting, filtered image assignment, timing capture, and image locking for controlled studies.
 
 **Stack:** `.NET 8` `ASP.NET Core MVC` `PostgreSQL` `Docker`
 
@@ -50,11 +50,11 @@ Designed role-based workflows for medical students and professionals, including 
 <br>
 
 ### 🎵 [Spotibuds](https://github.com/Spotibuds)
-<sub>MICROSERVICES · REAL-TIME SYSTEMS</sub>
+<sub>MICROSERVICES · REAL-TIME SYSTEMS · TEAM LEAD</sub>
 
-A microservice-based social music platform bringing together music discovery and social interaction.
+A microservice-based social music platform that mixes music discovery with social features.
 
-Worked primarily on user profiles, social relationships, real-time messaging, notifications, and activity feeds, alongside shared contributions to Music and Identity services, frontend development, and Docker infrastructure.
+I led the team and worked mainly on user profiles, social relationships, real-time messaging, notifications and activity feeds, plus the Music and Identity services, the frontend and the Docker setup.
 
 **Stack:** `.NET 8` `MongoDB` `SignalR` `RabbitMQ` `Azure`
 
@@ -63,9 +63,9 @@ Worked primarily on user profiles, social relationships, real-time messaging, no
 <br>
 
 ### 📖 [MangaFlex](https://github.com/ArkhunAbdullazade/MangaFlex)
-<sub>FULL-STACK DEVELOPMENT · TEAM PROJECT</sub>
+<sub>FULL-STACK DEVELOPMENT · TEAM LEAD</sub>
 
-A team-built manga and comics platform powered by MangaDex, combining title discovery and chapter reading with reading history, communities, authentication, and real-time chat.
+A manga and comics platform built on the MangaDex API, with title discovery, chapter reading, reading history, communities, authentication and real-time chat. I led a team of three.
 
 **Stack:** `ASP.NET Core MVC` `PostgreSQL` `MediatR` `xUnit`
 
@@ -74,7 +74,9 @@ A team-built manga and comics platform powered by MangaDex, combining title disc
 ### 💪 [Deviny](https://github.com/Deviny-me)
 <sub>STARTUP · PRODUCT DEVELOPMENT</sub>
 
-A fitness-focused social platform I'm co-founding and developing, connecting users with trainers and nutritionists through messaging, scheduling, program purchases, and professional service-management tools.
+A fitness platform I'm co-founding that connects users with trainers and nutritionists through messaging, scheduling, programme purchases and service-management tools. I work on the backend, the iOS app, and real-time chat and calls.
+
+**Stack:** `ASP.NET Core` `Swift` `SignalR` `WebRTC` `Docker`
 
 <sub>In active commercial development. Most repositories are private.</sub>
 
@@ -88,7 +90,9 @@ A fitness-focused social platform I'm co-founding and developing, connecting use
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Frameworks & Development**
