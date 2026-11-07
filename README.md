@@ -32,7 +32,7 @@ Outside programming, I read everything from Russian classics to fantasy, listen 
 
 ## Selected Projects
 
-### 🩺 [MedAnnotateApp](https://github.com/ArkhunAbdullazade/MedAnnotateApp)
+### 🩺 [CliniMark](https://github.com/ArkhunAbdullazade/CliniMark)
 <sub>MEDICAL AI RESEARCH · FULL-STACK DEVELOPMENT</sub>
 
 A medical image annotation platform I built for OpenMedSeg, used to collect the annotations for evaluating the model. Built in one week against a three-week estimate.
@@ -41,7 +41,7 @@ Role-based workflows for medical students and professionals, with visual annotat
 
 **Stack:** `.NET 8` `ASP.NET Core MVC` `PostgreSQL` `Docker`
 
-📹 **[Screenshots & video walkthrough →](https://github.com/ArkhunAbdullazade/MedAnnotateApp)**
+📹 **[Screenshots & video walkthrough →](https://github.com/ArkhunAbdullazade/CliniMark)**
 
 📄 **[Research abstract →](https://drive.google.com/file/d/1QrxU25FYIvye2wVZoGeYHJw7EkDN_eX8/view)**
 
