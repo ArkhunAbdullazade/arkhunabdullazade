@@ -21,12 +21,12 @@ Software engineering · Backend & Cloud · Applied AI
 
 ## About Me
 
-What I enjoy most about software is that there's always something new to understand. My favourite projects push me into unfamiliar territory, especially when they cross into other fields.
+I like projects that pull me into unfamiliar territory, especially where software meets another field.
 
-- 🔬 **Medical AI research** on OpenMedSeg with Stanford Medicine and the Hasso Plattner Institute, which grew partly out of my sister's background in biology. I'm third author on the manuscript and want to keep exploring AI/ML alongside other areas of software engineering.
-- 🚀 **Co-founding Deviny**, a fitness platform launching on iOS and Android in early 2027.
+- Contributing to **OpenMedSeg**, a medical image segmentation research project with Stanford Medicine and the Hasso Plattner Institute, where besides contributing to the method itself, I built the annotation platform below.
+- Co-founding **Deviny**, a fitness platform launching on iOS and Android in early 2027.
 
-Outside programming, I read everything from Russian classics to fantasy, listen to just about any genre, and dabble in writing fiction. I'm also drawn to game development and interactive storytelling.
+Outside programming I read everything from Russian classics to fantasy, listen to just about any genre, and write a bit of fiction. Game dev and interactive storytelling are the fields I want to explore next the most.
 
 <br>
 
@@ -35,7 +35,7 @@ Outside programming, I read everything from Russian classics to fantasy, listen 
 ### 🩺 [CliniMark](https://github.com/ArkhunAbdullazade/CliniMark)
 <sub>MEDICAL AI RESEARCH · FULL-STACK DEVELOPMENT</sub>
 
-A medical image annotation platform I built for OpenMedSeg, used to collect the annotations for evaluating the model. Built in one week against a three-week estimate.
+A medical image annotation platform I built for OpenMedSeg, used to collect the annotations for evaluating the model. Built in a week to unblock the annotation study.
 
 Role-based workflows for medical students and professionals, with visual annotation, clinical-term highlighting, filtered image assignment, timing capture, and image locking for controlled studies.
 
