@@ -35,7 +35,7 @@ Outside programming I read everything from Russian classics to fantasy, listen t
 ### 🩺 [CliniMark](https://github.com/ArkhunAbdullazade/CliniMark)
 <sub>MEDICAL AI RESEARCH · FULL-STACK DEVELOPMENT</sub>
 
-A medical image annotation platform I built for OpenMedSeg, used to collect the annotations for evaluating the model. Built in a week to unblock the annotation study.
+A medical image annotation platform I built for OpenMedSeg, used to collect the annotations for evaluating the model. Built in a week against a three-week estimate to unblock the annotation study.
 
 Role-based workflows for medical students and professionals, with visual annotation, clinical-term highlighting, filtered image assignment, timing capture, and image locking for controlled studies.
 
