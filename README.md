@@ -43,9 +43,9 @@ Role-based workflows for medical students and professionals, with visual annotat
 
 📹 **[Screenshots & video walkthrough →](https://github.com/ArkhunAbdullazade/CliniMark)**
 
-📄 **[Research abstract →](https://drive.google.com/file/d/1QrxU25FYIvye2wVZoGeYHJw7EkDN_eX8/view)**
-
-<sub>Demonstrations feature an earlier local development version.</sub>
+<!--
+📄 **[Research Preprint →]([LINK])**
+-->
 
 <br>
 
